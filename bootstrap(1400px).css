@@ -1,0 +1,128 @@
+@media (max-width:1400px) and (min-width:1000px) {
+    .menu-div ul li {
+        padding: 10px;
+    }
+
+
+    .cover-1 {
+        height: 370px;
+        width: 33%;
+        background-size: 100% 100%;
+    }
+
+    .cover-2 {
+        height: 370px;
+        width: 33%;
+        background-size: 100% 100%;
+    }
+
+    .cover-3 {
+        height: 370px;
+        width: 33%;
+        background-size: 100% 100%;
+    }
+
+    .cover-1:hover {
+        width: 33%;
+        height: 370px;
+        background-image: linear-gradient(to right, #0000000f, #00000049), url('images/cover-1.jpg');
+
+    }
+
+    .cover-2:hover {
+        width: 33%;
+        height:370px;
+        background-image: linear-gradient(to right, #0000000f, #00000049), url('images/cover-2.jpg');
+
+    }
+
+    .cover-3:hover {
+        width: 33%;
+        height:370px;
+        background-image: linear-gradient(to right, #0000000f, #00000049), url('images/cover-3.jpg');
+
+    }
+
+
+    .center-text {
+        font-size: 30px;
+    }
+
+    .shopnow-text {
+        height: 40px;
+        width: 150px;
+    }
+
+
+    .card-1{
+        width: 25%;
+        background-size: cover;
+        height: 300px;
+    }
+
+    .card-2{
+        width: 70%;
+        height: 300px;
+    }
+
+    .card-3{
+        width: 70%;
+        height:300px;
+    }
+
+    .card-4{
+        width: 25%;
+        height: 300px;
+    }
+
+
+    .t-product {
+        height: 400px;
+        width: 23.5%;
+        margin-inline: 5px;
+    }
+
+
+    .profile-1{
+        height: 120px;
+        width: 120px;
+    }
+
+    .profile-2{
+        height: 120px;
+        width: 120px;
+    }
+
+    .profile-3{
+        height: 120px;
+        width: 120px;
+    }
+
+    .profile-4{
+        height: 120px;
+        width: 120px;
+    }
+
+    .profile-5{
+        height: 120px;
+        width: 120px;
+    }
+
+    .profile-6{
+        height: 120px;
+        width: 120px;
+    }
+
+
+    .shopper-brand-section img {
+        height: 30px;
+        width: 90px;
+        margin-inline: 10px;
+    }
+
+    .footer{
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+
+}
